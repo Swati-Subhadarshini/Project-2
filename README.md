@@ -156,11 +156,12 @@ This project is designed by -
 
 Swati Subhadarshini
 Emaid id: sereneswati@gmail.com
+
 LinkedIn link: www.linkedin.com/in/swati-subhadarshini
 
 Somaye Nargesi
 Email id: srn1358@gmail.com
-LinkedIn link: 
+ 
 
 Hiep Le
 Email id: hieple@uw.edu
