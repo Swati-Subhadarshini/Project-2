@@ -108,7 +108,7 @@ Evaluate the model using testing data and the evaluate method. Using one hidden 
 
 ## Code:
 
-# Define the model - deep neural net with two hidden layers. Define the number of hidden nodes for the model. Create the Sequential model instance.  Add a Dense layer specifying the number of inputs, the number of hidden nodes, and the activation function. # Add the output layer to the model specifying the number of output neurons and activation function.
+Define the model - deep neural net with two hidden layers. Define the number of hidden nodes for the model. Create the Sequential model instance.  Add a Dense layer specifying the number of inputs, the number of hidden nodes, and the activation function. # Add the output layer to the model specifying the number of output neurons and activation function.
 
 `number_inputs = 16
 number_hidden_nodes = 12
