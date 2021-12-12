@@ -155,7 +155,7 @@ print('MAE:', metrics.mean_absolute_error(y_test, y_pred))
 This project is designed by - 
 
 Swati Subhadarshini
-Emaid id: sereneswati@gmail.com
+Emal id: sereneswati@gmail.com
 
 LinkedIn link: www.linkedin.com/in/swati-subhadarshini
 
