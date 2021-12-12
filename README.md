@@ -8,7 +8,10 @@ The goal of this FinTech analysis is to use machine learning in order to help us
 
 We planned to predict house prices using three machine learning models, in terms of minimizing the difference between predicted and actual prices.
 
-Data used: Kaggle-kc_house_data.
+
+
+Data used: King County Home Sales between May 2014 - May 2015.
+Kaggle-kc_house_data.
 
 
 ## Technologies Used
