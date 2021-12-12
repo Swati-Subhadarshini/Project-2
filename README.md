@@ -2,11 +2,13 @@
 
 Project on Machine Learning
 
-## Kings County Housing Price Prediction
+## King County Housing Price Prediction
 
-The goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict house price.
+The goal of this FinTech analysis is to use machine learning in order to help us understand the relationship between house features and how its variables are used to predict house price.
 
-Objective Predict the house price Using three different models in terms of minimizing the difference between predicted and actual rating Data used: Kaggle-kc_house_data.
+We planned to predict house prices using three machine learning models, in terms of minimizing the difference between predicted and actual prices.
+
+Data used: Kaggle-kc_house_data.
 
 
 ## Technologies Used
@@ -51,6 +53,7 @@ kc_house_df.head()`
 
 ### check if there are any Null values
 `kc_house_df.isnull().sum()`
+
 ### drop some unnecessary columns
 `kc_house_df = kc_house_df.drop(columns=['date', 'id', 'zipcode'], axis=1)
 kc_house_df.head()`
@@ -93,7 +96,7 @@ Evaluate the model’s performance by doing the following:
 1 Evaluate the performance of the algorithm (MAE - MSE - RMSE)
 2 Mean absolute error (MAE) is a measure of errors between paired observations expressing the same phenomenon. 
 3 Examples of Y versus X include comparisons of predicted versus observed.
-4 Explained_variance_score: variance of prediction errors and actual values - Best possible score is 1.0, lower values are worse
+4 Explained_variance_score: variance of prediction errors and actual values - Best possible score is 1.0; lower values are less accurate predictors.
 
 
 ## Neural Networking
@@ -153,9 +156,8 @@ Emaid id: sereneswati@gmail.com
 LinkedIn link: www.linkedin.com/in/swati-subhadarshini
 
 Somaye Nargesi
-Email id:
+Email id: srn1358@gmail.com
 LinkedIn link: 
 
 Hiep Le
-Email id: 
-LinkedIn link:
+Email id: hieple@uw.edu
