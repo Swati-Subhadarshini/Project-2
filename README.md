@@ -156,7 +156,6 @@ This project is designed by -
 
 Swati Subhadarshini
 Emal id: sereneswati@gmail.com
-
 LinkedIn link: www.linkedin.com/in/swati-subhadarshini
 
 Somaye Nargesi
